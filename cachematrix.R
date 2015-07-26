@@ -1,6 +1,6 @@
 ## In the following program creates a object called matrix. matrix can cache its inverse. 
 ##This is done in 4 stages. first stage sets the matrix, 2nd stage gets the matrix, third stage 
-##will set the inverse of the matrix and the last stage gets the inversed matrix.
+##will set the inverse of the matrix and the last stage gets the inversed matrix. 
 
 makeCacheMatrix<-function(mtx=matrix())
 {
